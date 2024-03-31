@@ -5,7 +5,7 @@ Stay informed and up-to-date with the latest news from BBC News and beyond with 
 
 ## Key Features:
 
-### Real-Time Updates: Access the latest news articles from BBC News and other reputable sources in real-time.
+#### Real-Time Updates: Access the latest news articles from BBC News and other reputable sources in real-time.
 ### Customizable Feed: Personalize your news feed based on your interests and preferences for a tailored browsing experience.
 ### Engaging Content: Dive into rich media content, including images and detailed descriptions, for an immersive reading experience.
 ### Bookmarking: Save articles for later reading by bookmarking them within the app.
