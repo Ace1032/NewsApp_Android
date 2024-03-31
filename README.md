@@ -27,4 +27,4 @@ Stay informed and up-to-date with the latest news from BBC News and beyond with 
 #### Enhanced Reading Experience: Immerse yourself in engaging content enhanced with images and detailed descriptions.
 #### Share the Knowledge: Share important news stories with your network to keep others informed and engaged.
 
-Download NewsReader now and empower yourself with the latest news and information, anytime, anywhere.
+Download NewsReader now and empower yourself with the latest news and information, anytime, anywhere. Check Application demonstration video on YouTube: https://www.youtube.com/watch?v=DRic0tfZjts
